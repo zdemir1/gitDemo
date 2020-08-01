@@ -4,6 +4,8 @@ public class HelloGit {
         System.out.println("Hello Git!");
 
         System.out.println("SA");
+        
+        System.out.println("Small frog");
 
 
 

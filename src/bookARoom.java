@@ -4,7 +4,7 @@ public class bookARoom {
         System.out.println("Task2 example");
 
 
-        System.out.pritnln("Hiiiiiiiii");
+        System.out.println("Hiiiiiiiii");
           
 
 
